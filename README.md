@@ -1,2 +1,2 @@
-# yoruba-speech-pipelines
-This repository contains a methodological research paper outlining a data-centric speech pipeline for Yoruba. The work focuses on system design, data collection, and evaluation strategy for low-resource ASR and TTS. Empirical results are planned as future work.
+## Building Low-Resource Speech Pipelines for Yoruba Using Data-Centric Methods
+This repository contains a methodological research paper that outlines a data-centric speech processing pipeline for Yoruba, a low-resource tonal language. The paper describes system design, data collection methodology, and an evaluation framework for Automatic Speech Recognition (ASR), Text-to-Speech (TTS), and tone-aware assessment. Empirical results are planned as future work, and this document is intended as a research writing sample reflecting my research direction.
